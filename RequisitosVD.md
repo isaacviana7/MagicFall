@@ -1,4 +1,4 @@
-# `<NOME PROJETO>`
+# `<MAGIC FALL>`
 
 * Link do jogo:
 
