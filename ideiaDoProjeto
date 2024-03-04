@@ -1,0 +1,14 @@
+# Ideia do Jogo
+
+MagicFall é um jogo em que o jogador usa um personagem chamado "Ron, o mago" para defender o castelo do rei de invasores que atacam pelos céus. Os invesores são presos a balões que possuem imagens de letras do alfabeto, e quando o jogador aperta alguma tecla referente aos balões, eles estouram, quando todos os balões de um invasor estouram, ele é derrotado, se algum tocar o chão sem ter todos os balões estourados, o jogador morre. A medida que o jogador fica vivo, a dificuldade aumenta, tanto a velocidade que surgem invasores quanto a velocidade de queda e a quantidade  de balões dos invasores.
+
+# Fases 
+
+O jogo é composto por uma fase única, em que a dificuldade aumenta mediante o tempo que o jogador sobrevive.
+
+# Jogabilidade 
+
+O jogador tem que apertar as teclas referentes a letra do alfabeto para estourar os respectivos balões que as possuírem. Se houver dois ou mais invasores com balões com a mesma letra, vamos supor a letra "R", se o jogador selecionar a tecla R, os balões que a tiverem serão extourados simultaneamente.
+
+O jogador pode acumular pontos a medida que vai jogando e pode trocar na loja por vidas que podem ser utilizados para dar continuidade a fase que o jogador morreu.
+
