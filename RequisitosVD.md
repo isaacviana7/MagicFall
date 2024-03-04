@@ -1,6 +1,6 @@
 # `<MAGIC FALL>`
 
-* Link do jogo:
+* Link do jogo: https://github.com/isaacviana7/MagicFall
 
 ## Motivação
 
