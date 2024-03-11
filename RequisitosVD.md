@@ -12,7 +12,7 @@ MagicFall é um jogo em que o jogador usa um personagem chamado "Ron, o mago" pa
 
 ## Valor Agregado
 
-QUAL É A INOVAÇÃO / QUAL É VANTAGEM / O QUE É NOVO.
+O jogo é baseado em uma versão mobile em que a jogabilidade funciona com touch screen, nessa versão do jogo, além de novos personagens, animações e ambientação, a jogabilidade é diferente, usando o teclado do computador, e devido pela extensividade de teclas e facilidade de reação, a dificuldade do jogo foi naturalmente aumentada, desde o início do jogo, e a medida que o tempo da partida aumenta.
 
 ## Fases
 
@@ -34,13 +34,17 @@ O jogador pontua a medida que o tempo em que ele sobrevive aumenta. Ele pode tro
 
 ### Épicos/Funcionalidades
 
-1. DESCREVA AS FUNCIONALIDADES
+1. 
 2. 
 
 ### Personas
 
 1. **QUEM SÃO OS PERSONAGENS DO JOGO**
 
+1- Rei Auzio Varelas III - O Rei do Castelo atacado no jogo.
+2- Mago Hans - Protetor do castelo e personagem principal do jogo.
+3- Doraga - Rei dos monstros do reino perdido de Bhaskar.
+4- Hegadrons - Monstros voadores piões do exército de Doraga. 
 ## Protótipos de Tela
 
 DIAGRAMA COM O PROTOTIPO DO JOGO
@@ -48,3 +52,5 @@ DIAGRAMA COM O PROTOTIPO DO JOGO
 ## Tecnologias e Ferramentas utilizadas
 
 1. QUAIS TECNOLOGIAS UTILIZADAS.
+
+A definir.
