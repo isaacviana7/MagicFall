@@ -4,7 +4,7 @@
 
 ## Motivação
 
-DESCREVA A MOTIVAÇÃO DO PROJETO.
+Projeto feito com intuito de desenvolver um jogo feito em JavaScript com Phaser 3 para a cadeira de Estágio 1, afim de aprimorar e desenvolver habilidades para gestão e administração de projetos de desenvolvimento.
 
 ## Objetivo
 
@@ -32,6 +32,7 @@ O jogador pontua a medida que o tempo em que ele sobrevive aumenta. Ele pode tro
 
 ## Requisitos
 
+
 ### Épicos/Funcionalidades
 
 1. 
@@ -47,10 +48,10 @@ O jogador pontua a medida que o tempo em que ele sobrevive aumenta. Ele pode tro
 4- Hegadrons - Monstros voadores piões do exército de Doraga. 
 ## Protótipos de Tela
 
-DIAGRAMA COM O PROTOTIPO DO JOGO
+Ainda não concluído.
 
 ## Tecnologias e Ferramentas utilizadas
 
 1. QUAIS TECNOLOGIAS UTILIZADAS.
 
-A definir.
+JavaScript, HTML5 e Phaser 3.
